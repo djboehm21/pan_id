@@ -36,10 +36,9 @@ body:
 
       '
     options:
-    - test-3 | 422546939722
-    - test-1 | 900360460826
-    - sandbox 3 | 588738594421
-    - sandbox 2 | 841162681454
+    - lab-pool-1 | 147248321127
+    - lab-pool-3 | 113011715158
+    - lab-pool-2 | 827877895195
   validations:
     required: false
 - type: input
