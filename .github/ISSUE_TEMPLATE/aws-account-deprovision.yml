@@ -24,7 +24,7 @@ body:
 
       '
     options:
-    - No accounts found — check AWS Organizations
+    - lab-pool-1 | 147248321127
   validations:
     required: true
 - type: dropdown
