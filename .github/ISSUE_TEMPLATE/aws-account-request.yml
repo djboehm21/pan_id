@@ -36,7 +36,7 @@ body:
 
       '
     options:
-    - lab-pool-2 | 827877895195
+    - No available accounts — check pool OU tags (Status=Available)
   validations:
     required: false
 - type: input
