@@ -37,6 +37,7 @@ body:
 
       '
     options:
+    - lab-pool-1 | 147248321127
     - lab-pool-3 | 113011715158
     - lab-pool-2 | 827877895195
   validations:
