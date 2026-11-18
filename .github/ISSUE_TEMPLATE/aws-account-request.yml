@@ -3,6 +3,7 @@ description: Request a new AWS account to be provisioned
 title: '[AWS Account Request]: '
 labels:
 - aws-account-request
+- provision-aws-account
 body:
 - type: markdown
   attributes:
